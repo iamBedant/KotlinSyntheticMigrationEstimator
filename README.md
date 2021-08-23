@@ -8,7 +8,7 @@ I work on an application which has 150+ modules and my team owns some of them. W
 
 ## How to use it?
 - Download the `ktsy.jar` file from [here](https://github.com/iamBedant/KotlinSyntheticMigrationEstimator/releases/tag/0.0.1).
-- run `java -jar ktsy.jar -p <"path/to/src/main/java"> -o "resultFileName"`
+- run `java -jar ktsy.jar -p "path/to/src/main/java" -o "resultFileName"`
 - It will create a csv file with the name you provided. Which will look something like this
 
 |Name|Synthetic Imports  | WildcardImports |
