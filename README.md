@@ -3,7 +3,7 @@ This is a tiny application to roughly estimate migration effort and may be to tr
 
 
 ## Why this exists?
-I work on an application which has 150+ modules and my team owns some of them. When kotlin team depericated synthetic imports, we started planning for migration. To estimate migration effort I wrote his application. You can get a similar idea by using something like `grep` or `ag` but if you have too many modules it becomes tedious.  
+I work on an application which has 150+ modules and my team owns some of them. When kotlin team deprecated synthetic imports, we started planning for migration. To estimate migration effort I wrote his application. You can get a similar idea by using something like `grep` or `ag` but if you have too many modules it becomes tedious.  
 
 
 ## How to use it?
