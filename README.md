@@ -7,7 +7,7 @@ I work on an application which has 150+ modules and my team owns few of them. Wh
 
 
 ## How to use it?
-- Download this jar from here.
+- Download the `ktsy.jar` file from [here](https://github.com/iamBedant/KotlinSyntheticMigrationEstimator/releases/tag/0.0.1).
 - run `java -jar ktsy.jar -p <"path/to/src/main/java"> -o "resultFileName"`
 - It will create a csv file with the name you provided. Which will look something like this
 
@@ -17,4 +17,4 @@ I work on an application which has 150+ modules and my team owns few of them. Wh
 | SomeOtherViewFile | 1  |true |
 
 ## Is this my idea?
-Absolutely not. Few days back, I came across [this blog post](https://obvious.in/blog/estimating-the-android-architecture-migration-for-simple) and basically this application is a modified version of that.
+Absolutely not. Few days back I came across [this blog post](https://obvious.in/blog/estimating-the-android-architecture-migration-for-simple) and basically this application is a modified version of that.
