@@ -17,4 +17,4 @@ I work on an application which has 150+ modules and my team owns some of them. W
 | SomeOtherViewFile | 1  |true |
 
 ## Is this my idea?
-Absolutely not. Few days back I came across [this blog post](https://obvious.in/blog/estimating-the-android-architecture-migration-for-simple) and basically this application is a modified version of that.
+Absolutely not. Few days back I came across [this blog post](https://obvious.in/blog/estimating-the-android-architecture-migration-for-simple) and basically this application is a modified version of that idea.
