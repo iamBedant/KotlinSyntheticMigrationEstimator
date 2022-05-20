@@ -1,5 +1,5 @@
 # KotlinSyntheticMigrationEstimator
-This is a tiny application to roughly estimate migration effort and may be to track progress for kotlin synthetic import migration.
+This is a tiny application to roughly estimate migration effort and maybe to track progress for kotlin synthetic import migration.
 
 
 ## Why this exists?
